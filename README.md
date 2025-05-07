@@ -56,3 +56,19 @@ Uma loja online de eletrônicos lançou um novo smartphone. Para entender a rece
         A empresa recebe um relatório com a análise de sentimento e decide melhorar a bateria do produto com base nas reclamações.
 
 Esse processo ajuda empresas a compreender as opiniões dos clientes de maneira automatizada, economizando tempo e gerando insights valiosos para aprimorar seus produtos.
+
+🎙 Transcrição da Assistente Virtual de uma Loja de Eletrônicos 🎙
+
+Bem-vindo à TechSmart, a sua loja de tecnologia favorita!
+
+🔹 Ofertas do dia: Temos descontos imperdíveis em smartphones, notebooks e acessórios!
+
+💡 Precisa de ajuda? Nossa assistente virtual pode te ajudar a:
+
+    Encontrar o produto ideal para suas necessidades.
+
+    Comparar especificações e preços.
+
+    Saber mais sobre formas de pagamento e entrega.
+
+📞 Diga o que você precisa e nós vamos te ajudar!
