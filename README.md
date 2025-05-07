@@ -72,3 +72,15 @@ Bem-vindo à TechSmart, a sua loja de tecnologia favorita!
     Saber mais sobre formas de pagamento e entrega.
 
 📞 Diga o que você precisa e nós vamos te ajudar!
+
+
+Speech Studio e Language Studio são ferramentas da Microsoft que ajudam empresas e desenvolvedores a processar e compreender linguagem natural de maneira eficiente.
+Speech Studio 🎙
+
+O Speech Studio é uma plataforma que permite trabalhar com áudio e voz, incluindo: ✅ Conversão de fala para texto – Transcreve áudios automaticamente. ✅ Síntese de voz – Transforma texto em fala com vozes naturais. ✅ Comandos de voz – Detecta instruções faladas para automação. ✅ Treinamento personalizado – Adapta modelos de IA para sotaques e vocabulário específico.
+Language Studio 🧠
+
+O Language Studio é uma ferramenta que ajuda na análise de textos escritos: ✅ Análise de sentimento – Identifica emoções positivas, negativas ou neutras no texto. ✅ Extração de entidades – Reconhece nomes de pessoas, lugares e produtos. ✅ Tradução automática – Converte textos para outros idiomas com alta precisão. ✅ Classificação de intenção – Entende a intenção por trás de uma frase (exemplo: uma solicitação ou uma reclamação).
+
+Juntas, essas tecnologias tornam possível criar assistentes virtuais, sistemas de atendimento automatizado e soluções para acessibilidade.
+## fonte de documentação da Azure e Microsoft
